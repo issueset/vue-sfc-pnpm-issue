@@ -8,7 +8,7 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "npm install && npm run build"
+    "startCommand": "npm --version && npm install && npm run build"
   },
   "dependencies": {
     "prosekit": "0.2.12",
