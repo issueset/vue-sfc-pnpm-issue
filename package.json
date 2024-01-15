@@ -8,7 +8,7 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "pnpm --version && pnpm install && pnpm run build"
+    "startCommand": "yarn --version && yarn install && yarn run build"
   },
   "dependencies": {
     "prosekit": "0.2.12",
