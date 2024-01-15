@@ -6,6 +6,10 @@
   "scripts": {
     "build": "vite build"
   },
+  "stackblitz": {
+    "installDependencies": false,
+    "startCommand": "npm install && npm run build"
+  },
   "dependencies": {
     "prosekit": "0.2.12",
     "vue": "3.4.14"
