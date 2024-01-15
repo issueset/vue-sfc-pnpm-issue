@@ -8,7 +8,7 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "bun --version && bun install && bun run build"
+    "startCommand": "npm install -g bun && bun --version && bun install && bun run build"
   },
   "dependencies": {
     "prosekit": "0.2.12",
